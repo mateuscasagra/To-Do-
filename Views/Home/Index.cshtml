@@ -1,0 +1,34 @@
+﻿
+@model List<TarefaModel.Tarefas> 
+
+@{
+    ViewData["Title"] = "To Do";
+}
+<h1 class="display-5 text-center mt-5">Adicione suas Tarefas</h1>
+<form asp-action="AdicionarTarefa" method="post">
+    <div class="d-flex justify-content-center mt-5 gap-2">
+        <input type="text" class="form-control w-25 " id="formGroupExampleInput" placeholder="Descrição da tarefa" name="tarefa">
+        <button type="submit" class="btn btn-primary">Adicionar</button>
+    </div>
+</form>
+
+
+@if (Model != null)
+{
+    <div class="w-50 mt-5 mx-auto">
+        <ul class="list-group">
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <span>@Model[i].Tarefa</span>
+                    <form asp-action="ConcluirTarefa" method="post">
+                        <input type="hidden" name="indice" value="@i" />
+                        <button type="submit" class="btn btn-success btn-sm">✔</button>
+                    </form>
+                </li>
+            }
+        </ul>
+    </div>
+}
+
+

@@ -1,0 +1,30 @@
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\bin\Debug\net8.0\appsettings.json
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\bin\Debug\net8.0\Nova pasta.staticwebassets.runtime.json
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\bin\Debug\net8.0\Nova pasta.exe
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\bin\Debug\net8.0\Nova pasta.deps.json
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\bin\Debug\net8.0\Nova pasta.runtimeconfig.json
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\bin\Debug\net8.0\Nova pasta.dll
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\bin\Debug\net8.0\Nova pasta.pdb
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.AssemblyInfo.cs
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.RazorAssemblyInfo.cache
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.RazorAssemblyInfo.cs
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\staticwebassets\msbuild.Nova pasta.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\staticwebassets\msbuild.build.Nova pasta.props
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nova pasta.props
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nova pasta.props
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\scopedcss\bundle\Nova pasta.styles.css
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\scopedcss\projectbundle\Nova pasta.bundle.scp.css
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.dll
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\refint\Nova pasta.dll
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.pdb
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.genruntimeconfig.cache
+C:\Users\MATEUSZANDONACASAGRA\Desktop\Nova pasta\obj\Debug\net8.0\ref\Nova pasta.dll
