@@ -1,10 +1,10 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Nova_pasta</title>
+    <title>@ViewData["Title"] - To Do</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Nova_pasta.styles.css" asp-append-version="true" />
@@ -18,10 +18,12 @@
             </div>
             <nav class="navbar bg-body-tertiary">
                 <div>
-                    <form class="d-flex" role="search">
-                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <form asp-controller="Home" asp-action="Pesquisa" method="post" class="d-flex" role="search">
+                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"
+                            name="pesquisa">
                         <button class="btn btn-dark" type="submit">Search</button>
                     </form>
+
                 </div>
             </nav>
         </div>
