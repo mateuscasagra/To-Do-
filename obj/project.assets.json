@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MATEUSZANDONACASAGRA\\.nuget\\packages\\": {}
+    "/Users/mateus/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MATEUSZANDONACASAGRA\\Desktop\\Nova pasta\\Nova pasta.csproj",
+      "projectUniqueName": "/Users/mateus/Desktop/pasta sem título 2/To-Do-/Nova pasta.csproj",
       "projectName": "Nova pasta",
-      "projectPath": "C:\\Users\\MATEUSZANDONACASAGRA\\Desktop\\Nova pasta\\Nova pasta.csproj",
-      "packagesPath": "C:\\Users\\MATEUSZANDONACASAGRA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MATEUSZANDONACASAGRA\\Desktop\\Nova pasta\\obj\\",
+      "projectPath": "/Users/mateus/Desktop/pasta sem título 2/To-Do-/Nova pasta.csproj",
+      "packagesPath": "/Users/mateus/.nuget/packages/",
+      "outputPath": "/Users/mateus/Desktop/pasta sem título 2/To-Do-/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MATEUSZANDONACASAGRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/mateus/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
